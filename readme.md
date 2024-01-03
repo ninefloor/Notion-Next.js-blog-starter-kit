@@ -5,6 +5,8 @@
 This repository is a startup kit that allows you to create a blog using `notion` and `next.js`.<br/>
 Please understand that the code and explanation are mainly written in Korean. 🥲
 
+test
+
 <br />
 
 ## 🔗 미리보기 및 링크
